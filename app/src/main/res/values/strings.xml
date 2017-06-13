@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">NotificationFirebase7</string>
     <string name="lanzar_notificacion">Lanzar Notificación</string>
+    <string name="recibir_notificaciones">Recibir Notificaciones</string>
 </resources>
